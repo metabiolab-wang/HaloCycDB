@@ -1,0 +1,33 @@
+#                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_5390_length_1276_cov_0.893821_1 -            424 ketoacyl-synt        PF00109.29   253   7.9e-81  262.3   0.0   1   1   3.3e-82   1.1e-80  261.9   0.0    15   253     2   240     1   240 0.97 -
+NODE_7452_length_1145_cov_0.424361_1 -            381 PAP2                 PF01569.24   136     2e-07   22.0   0.0   1   1   1.4e-08   4.6e-07   20.8   0.0    13    80   305   370   294   378 0.81 -
+NODE_6008_length_1228_cov_1.008174_2 -            268 SAM_HAT_N            PF01887.19   147   1.1e-46  149.4   0.0   1   1   9.6e-48   1.5e-46  148.9   0.0     1   147     5   151     5   151 0.95 -
+NODE_2256_length_1703_cov_0.837563_3 -            215 SAM_HAT_N            PF01887.19   147   1.8e-24   77.3   0.0   1   1   1.6e-25   2.5e-24   76.8   0.0    51   147     2    98     1    98 0.92 -
+NODE_5390_length_1276_cov_0.893821_1 -            424 Ketoacyl-synt_C      PF02801.25   119   6.8e-43  136.6   0.1   1   1     4e-44   1.3e-42  135.7   0.1     1   118   248   363   248   364 0.98 -
+NODE_46_length_5365_cov_1.586674_2   -            432 Trp_halogenase       PF04820.17   454  7.1e-108  352.3   0.0   1   1  2.7e-108    8e-108  352.1   0.0     2   401     8   425     7   431 0.88 -
+NODE_45_length_5394_cov_1.703816_4   -            510 Trp_halogenase       PF04820.17   454  9.4e-104  338.7   0.0   1   1  3.9e-104  1.1e-103  338.4   0.0     2   430     4   436     3   457 0.89 -
+NODE_3065_length_1533_cov_1.110953_2 -            436 Trp_halogenase       PF04820.17   454  1.6e-101  331.4   0.0   1   1    6e-102  1.7e-101  331.2   0.0     1   427     3   433     3   436 0.87 -
+NODE_7124_length_1162_cov_1.930435_1 -            368 Trp_halogenase       PF04820.17   454   1.9e-92  301.4   0.0   1   1     8e-93   2.3e-92  301.2   0.0     2   342     6   365     5   367 0.86 -
+NODE_2436_length_1661_cov_1.228162_2 -            464 Trp_halogenase       PF04820.17   454   1.7e-78  255.5   1.2   1   1   6.9e-79     2e-78  255.2   1.2    67   400     3   351     1   417 0.81 -
+NODE_5988_length_1229_cov_1.144283_1 -            409 Trp_halogenase       PF04820.17   454   9.6e-78  253.0   0.0   1   1     4e-78   1.2e-77  252.7   0.0   132   399    34   315    15   371 0.86 -
+NODE_3664_length_1447_cov_0.780303_1 -            314 Trp_halogenase       PF04820.17   454   8.6e-71  230.1   0.0   1   1   3.3e-71   9.7e-71  229.9   0.0     1   310     5   312     5   314 0.86 -
+NODE_2570_length_1630_cov_0.876248_1 -            285 Trp_halogenase       PF04820.17   454   2.2e-64  208.9   0.0   1   1   1.3e-63   3.8e-63  204.9   0.0     1   292     5   284     5   285 0.91 -
+NODE_4094_length_1394_cov_0.898974_2 -            308 Trp_halogenase       PF04820.17   454   1.1e-56  183.5   0.0   1   1   4.4e-57   1.3e-56  183.4   0.0     2   264    25   306    24   308 0.86 -
+NODE_3841_length_1426_cov_1.098537_1 -            446 Trp_halogenase       PF04820.17   454     2e-56  182.7   0.8   1   1     1e-56   2.9e-56  182.2   0.8   141   410    51   351    19   389 0.74 -
+NODE_1976_length_1774_cov_1.048573_3 -            243 Trp_halogenase       PF04820.17   454   6.4e-37  118.4   0.1   1   1   2.6e-37   7.4e-37  118.2   0.1   271   422     1   162     1   192 0.82 -
+NODE_5390_length_1276_cov_0.893821_1 -            424 KAsynt_C_assoc       PF16197.8    112   7.4e-15   46.6   0.0   1   1   4.5e-16   1.4e-14   45.6   0.0     1    56   366   422   366   424 0.93 -
+NODE_2256_length_1703_cov_0.837563_3 -            215 SAM_HAT_C            PF20257.1     85   1.6e-16   51.9   0.0   1   1   1.5e-17   2.4e-16   51.2   0.0     1    84   123   210   123   211 0.92 -
+NODE_6008_length_1228_cov_1.008174_2 -            268 SAM_HAT_C            PF20257.1     85   3.3e-15   47.6   0.0   1   1   3.8e-16     6e-15   46.8   0.0     1    84   176   263   176   264 0.90 -
+NODE_7452_length_1145_cov_0.424361_1 -            381 PTHR34599.orig.30.pir -            506   4.8e-31   99.1   0.7   1   1   2.8e-32   9.1e-31   98.2   0.7    15   405     3   367     1   375 0.81 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      halocycDB_new/halogenase/halogenase.hmm
+# Target file:     test_usearch/halogenase.fa
+# Option settings: hmmsearch -o /dev/null --domtblout test_usearch/halo.hresult -E 1e-05 --domE 1e-05 --cpu 60 halocycDB_new/halogenase/halogenase.hmm test_usearch/halogenase.fa 
+# Current dir:     /share/liqihao/database/halocycDB_test
+# Date:            Wed Jun 25 11:25:15 2025
+# [ok]
