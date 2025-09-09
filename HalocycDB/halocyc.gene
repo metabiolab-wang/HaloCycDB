@@ -1,0 +1,191 @@
+Gene	Organisms_domain	Organisms_genus	Source	Substrates	Products	Levels2	Levels1
+4-CBA-CoA-dehalogenase	bacterium	Comamonas	terrestrial	4-chlorobenzoate coenzyme A	4-hydroxybenzoate coenzyme A	Hydrolytic dehalogenase	Dehalogenase
+AclH	Fungus	Aspergillus	NA	diketopiperazines	aspirochlorine	Flavin-Dependent Halogenases	Halogenase
+AdeV	Bacterium	Actinomadura	NA	2'-deoxyadenosine monophosphate	2'-chloro-2'-deoxyadenosine monophosphate	Nonheme Iron-Dependent Halogenases	Halogenase
+Alr0039	bacterium	Nostoc	NA	monofluoroacetate	glycolate	Hydrolytic dehalogenase	Dehalogenase
+AltN	Bacterium	pseudoalteromonads	marine	indole	3-bromoindole	Flavin-Dependent Halogenases	Halogenase
+Am1-VIPO	Bacterium	Algoriphagus	marine	NA	NA	Vanadium-Dependent Haloperoxidases	Halogenase
+Am2-VBPO	Cyanobacterium	Acaryochloris	marine	1,3-dimethoxybenzene	1-bromo-2,4-dimethoxybenzene	Vanadium-Dependent Haloperoxidases	Halogenase
+Am2-VIPO	Bacterium	Algoriphagus	marine	NA	NA	Vanadium-Dependent Haloperoxidases	Halogenase
+AmbO5	Cyanobacterium	Fischerella	NA	ambiguine H	ambiguine A	Nonheme Iron-Dependent Halogenases	Halogenase
+Amm3	Bacterium	Streptomyces	NA	L-tryptophan	6-chlorotryptophan	Flavin-Dependent Halogenases	Halogenase
+An1-VBPO	Brown Algae	Ascophyllum	marine	1,1-dimethyl-4-chloro-3,5-cyclohexadione	NA	Vanadium-Dependent Haloperoxidases	Halogenase
+An2-VBPO	Brown Algae	Ascophyllum	marine	methyl pyrrole-2-carboxylate	methyl 4-bromopyrrole-2-carboxylate	Vanadium-Dependent Haloperoxidases	Halogenase
+ArmH1	Fungus	Armillaria	NA	melleolide	6'-chloromelleolide	Flavin-Dependent Halogenases	Halogenase
+AscD	Fungus	Acremonium	NA	ilicicolin B	ilicicolin A	Flavin-Dependent Halogenases	Halogenase
+AtzA	bacterium	Pseudomonas	terrestrial	atrazine	hydroxyatrazine	Hydrolytic dehalogenase	Dehalogenase
+BarB1	Cyanobacterium	Lyngbya	marine	L-Leu-S-BarA	(2S,4S)-5-chloro-Leu-S-BarA	Nonheme Iron-Dependent Halogenases	Halogenase
+BarB2	Cyanobacterium	Lyngbya	marine	L-Leu-S-BarA	(2S,4S)-5,5-dichloro-Leu-S-BarA	Nonheme Iron-Dependent Halogenases	Halogenase
+BbdC	bacterium	Aminobacter	terrestrial	2-chloro-3,5-dihydroxybenzoic acid	​​2,3,5-trihydroxybenzoic acid​​	Hydrolytic dehalogenase	Dehalogenase
+BbdI	bacterium	Aminobacter	terrestrial	2,6-dichloro-3,5-dihydroxybenzoic acid	2-chloro-3,5-dihydroxybenzoic acid	Glutathione S-transferase	Dehalogenase
+BddE	bacterium	Aminobacter	terrestrial	2,6-dichloro-3,5-dihydroxybenzoic acid	2-chloro-3,5-dihydroxybenzoic acid	Glutathione S-transferase	Dehalogenase
+BesD	Bacterium	Streptomyces	terrestrial	lysine	chloro-lysine	Nonheme Iron-Dependent Halogenases	Halogenase
+BhbA	bacterium	Comamonas	terrestrial	3,5-dibromo-4-hydroxybenzoate	4-hydroxybenzoate	Reductive dehalogenase	Dehalogenase
+BhbA3	bacterium	Delftia	terrestrial	3,5-dibromo-4-hydroxybenzoate	4-hydroxybenzoate	Reductive dehalogenase	Dehalogenase
+Bmp2	Bacterium	Pseudoalteromonas	marine	proline-derived carboxylate	tetrabromopyrrole	Flavin-Dependent Halogenases	Halogenase
+Bmp5	Bacterium	Pseudoalteromonas	marine	3-bromo-4-hydroxybenzoic acid	2,4-dibromophenol	Flavin-Dependent Halogenases	Halogenase
+BorH	Bacterium	uncultured	desert soil	L-tryptophan	6-chlorotryptophan	Flavin-Dependent Halogenases	Halogenase
+BphK	bacterium	Paraburkholderia	NA	3-chloro 2-hydroxy-6-oxo-6-phenyl-2,4-dienoates	3-chloro 2-hydroxy-6-oxo-6-phenyl-2,4-dienoate	Glutathione S-transferase	Dehalogenase
+Bpro-0530	bacterium	Polaromonas	NA	(S)-2-haloacid	(R)-2-hydroxyacid	Hydrolytic dehalogenase	Dehalogenase
+BrvH	Bacterium	Brevundimonas	marine	indole	3-bromoindole	Flavin-Dependent Halogenases	Halogenase
+BvcA	bacterium	Dehalococcoides	terrestrial	​​vinyl chloride	ethylene	Reductive dehalogenase	Dehalogenase
+CbrA	bacterium	Dehalococcoides	terrestrial	1,2,3,4-tetrachlorobenzene​​	​​1,2,4-trichlorobenzene​​	Reductive dehalogenase	Dehalogenase
+CerA	bacterium	Dehalogenimonas	terrestrial	​​vinyl chloride	ethylene	Reductive dehalogenase	Dehalogenase
+CfrA	bacterium	Dehalobacter	terrestrial	trichloromethane​​	dichloromethane	Reductive dehalogenase	Dehalogenase
+Chd	bacterium	Comamonas	terrestrial	​​tetrachloroisophthalonitrile	4-hydroxy-trichloroisophthalonitrile	Hydrolytic dehalogenase	Dehalogenase
+ChlA	Amoebas	Dictyostelium	soil	(2,4,6-trihydroxyphenyl)-1-hexan-1-one	dichloro-(2,4,6-trihydroxyphenyl)-1-hexan-1-one	Flavin-Dependent Halogenases	Halogenase
+Cis-caaD	bacterium	Corynebacterium	NA	1,3-dichloropropene	acetaldehyde	Hydrolytic dehalogenase	Dehalogenase
+Ci-VCPO	Fungus	Curvularia	terrestrial	monochlorodimedon	dichlorodimedon	Vanadium-Dependent Haloperoxidases	Halogenase
+CmaB	Bacterium	Pseudomonas	terrestrial	L-allo-isoleucine	γ-Cl-L-allo-isoleucine	Nonheme Iron-Dependent Halogenases	Halogenase
+CmdE	Bacterium	Chondromyces	terrestrial	L-tryptophan	2-chlorotryptophan	Flavin-Dependent Halogenases	Halogenase
+CmlS	Bacterium	Streptomyces	soil	NA	chloramphenicol	Flavin-Dependent Halogenases	Halogenase
+CmuA	bacterium	Hyphomicrobium	NA	trichloromethane​​	CH3-Co(III)	Methyltransferase	Dehalogenase
+CndH	Bacterium	Chondromyces	NA	tyrosinyl	chondrochloren A and B	Flavin-Dependent Halogenases	Halogenase
+CnpA	bacterium	Ensifer	terrestrial	​​2,6-dichloro-1,4-benzoquinone	6-chlorohydroxyquinone	Hydrolytic dehalogenase	Dehalogenase
+ComH	Bacterium	Streptomyces	NA	hydroxyphenylglycine	3,5-dichlorohydroxyphenylglycine	Flavin-Dependent Halogenases	Halogenase
+Co-VBPO	Red Algae	Corallina	marine	nerol	monobromo eight-membered cyclic ether	Vanadium-Dependent Haloperoxidases	Halogenase
+Cp1-VBPO	Red Algae	Corallina	marine	monochlorodimedon	monochlorobromodimedone	Vanadium-Dependent Haloperoxidases	Halogenase
+Cp2-VBPO	Red Algae	Corallina	marine	monochlorodimedon	monochlorobromodimedone	Vanadium-Dependent Haloperoxidases	Halogenase
+cprA	bacterium	Desulfitobacterium	terrestrial	chloro-hydroxyphenylacetic acid	4-hydroxyphenylacetic acid​​	Reductive dehalogenase	Dehalogenase
+CrpH	lichen cyanobacterial symbiont	Nostoc	lichen	O-methyl-D-Tyr	3-chloro-O-methyl-D-Tyr	Flavin-Dependent Halogenases	Halogenase
+ctcP	Bacterium	Streptomyces	NA	tetracycline	chlortetracycline	Flavin-Dependent Halogenases	Halogenase
+CtrA	bacterium	Desulfitobacterium	NA	1,1,1-trichloroethane	chloroethane	Reductive dehalogenase	Dehalogenase
+CurA	Cyanobacterium	Lyngbya	marine	HMG-ACP	Cl-HMG-ACP	Nonheme Iron-Dependent Halogenases	Halogenase
+CurN	Cyanobacterium	Lyngbya	marine	haloalkane	alcohol	Hydrolytic dehalogenase	Dehalogenase
+CytC3	Bacterium	Streptomyces	terrestrial	aminobutyryl-S-CytC2	γ-dichloroaminobu-tyryl-S-CytC2	Nonheme Iron-Dependent Halogenases	Halogenase
+DadB	bacterium	Plesiocystis	marine	haloalkane	alcohol	Hydrolytic dehalogenase	Dehalogenase
+DbeA	bacterium	Bradyrhizobium	terrestrial	haloalkane	alcohol	Hydrolytic dehalogenase	Dehalogenase
+DcaA	bacterium	Desulfitobacterium	groundwater	1,2-dichloroethane	ethylene	Reductive dehalogenase	Dehalogenase
+DcmA	bacterium	Methylobacterium	NA	dichloromethane​​	formaldehyde	Glutathione S-transferase	Dehalogenase
+DcpA	bacterium	Dehalococcoides	terrestrial	1,2-dichlorophenol	propene	Reductive dehalogenase	Dehalogenase
+DcrA	bacterium	Dehalobacter	terrestrial	1,1-​​dichloroethane	chloroethane	Reductive dehalogenase	Dehalogenase
+Dehc2	bacterium	Pseudomonas	NA	haloacid	hydroxycarboxylate	Hydrolytic dehalogenase	Dehalogenase
+DehD	bacterium	Rhizobium	terrestrial	2-chloropropionic acid	NA	Hydrolytic dehalogenase	Dehalogenase
+DehE	bacterium	Rhizobium	terrestrial	(S)-2-haloacid	(R)-2-hydroxyacid	Hydrolytic dehalogenase	Dehalogenase
+DehH1	bacterium	Moraxella	terrestrial	monofluoroacetate	glycolate	Hydrolytic dehalogenase	Dehalogenase
+dehH109	bacterium	Pseudomonas	NA	haloacid	hydroxycarboxylate	Hydrolytic dehalogenase	Dehalogenase
+DehH2	bacterium	Moraxella	terrestrial	monochloroacetate	glycolate	Hydrolytic dehalogenase	Dehalogenase
+DehHX	bacterium	Pseudomonas	lake	2,2-dichloropropionic acid	NA	Hydrolytic dehalogenase	Dehalogenase
+DehI	bacterium	Rhizobium	terrestrial	(R)-2-haloacid	(2S)-2-hydroxycarboxylate	Hydrolytic dehalogenase	Dehalogenase
+DehL	bacterium	Rhizobium	terrestrial	2-chloropropionic acid	NA	Hydrolytic dehalogenase	Dehalogenase
+DhaA	bacterium	Mycobacterium	terrestrial	haloalkane	alcohol	Hydrolytic dehalogenase	Dehalogenase
+DhlA	bacterium	Xanthobacter	terrestrial	1,2-dichloroethane	2-chloroethanol	Hydrolytic dehalogenase	Dehalogenase
+DhlB	bacterium	Xanthobacter	terrestrial	(S)-2-haloacid	(2R)-2-hydroxycarboxylate	Hydrolytic dehalogenase	Dehalogenase
+DhlC	bacterium	Alcaligenes	NA	haloacid	hydroxycarboxylate	Hydrolytic dehalogenase	Dehalogenase
+DhmA	bacterium	Mycobacterium	terrestrial	haloalkane	alcohol	Hydrolytic dehalogenase	Dehalogenase
+DhmA1	bacterium	Mycobacterium	terrestrial	haloalkane	alcohol	Hydrolytic dehalogenase	Dehalogenase
+DhmA2	bacterium	Mycobacterium	terrestrial	haloalkane	alcohol	Hydrolytic dehalogenase	Dehalogenase
+DHPA	worm	Amphitrite	marine	2,4,6-trihalophenol	2,6-dihaloquinone	Oxidative dehalogenase	Dehalogenase
+DHPB	worm	Amphitrite	marine	2,4,6-trihalophenol	2,6-dihaloquinone	Oxidative dehalogenase	Dehalogenase
+DL-DEX	bacterium	Methylobacterium	terrestrial	D and L-2-hydroxyalkanoic acid	L and D-2-haloalkanoic acids	Hydrolytic dehalogenase	Dehalogenase
+DppA	bacterium	Pseudomonas	terrestrial	2,3-dichloro-1-propanol	2-chloroacrolein	Halohydrin dehalogenases	Dehalogenase
+DrbA	bacterium	Rhodopirellula	marine	haloalkane	alcohol	Hydrolytic dehalogenase	Dehalogenase
+DsmH2	bacterium	Rhizorhabdus	NA	3,6-dichlorogentisate	3-chlorogentisate	Glutathione S-transferase	Dehalogenase
+DysB1	Sponge	Dysidea	marine	NA	dysidin	Nonheme Iron-Dependent Halogenases	Halogenase
+Ed-VCPO	Fungus	Embellisia	marine	monochlorodimedon	dichlorodimedon	Vanadium-Dependent Haloperoxidases	Halogenase
+FAc-DEX	bacterium	Burkholderia	terrestrial	monochloroacetate	glycolate	Hydrolytic dehalogenase	Dehalogenase
+FcbB	bacterium	Comamonas	NA	​​4-chlorobenzoic acid coenzyme A​​	​​4-hydroxybenzoic acid coenzyme A	Hydrolytic dehalogenase	Dehalogenase
+FcbB1	bacterium	Arthrobacter	terrestrial	​​4-chlorobenzoic acid coenzyme A​​	​​4-hydroxybenzoic acid coenzyme A	Hydrolytic dehalogenase	Dehalogenase
+FcbB2	bacterium	Arthrobacter	terrestrial	​​4-chlorobenzoic acid coenzyme A​​	​​4-hydroxybenzoic acid coenzyme A	Hydrolytic dehalogenase	Dehalogenase
+FLA	Bacterium	Streptomyces	terrestrial	fluoride, ​​S-adenosyl methionine​	5'-fluoro-deoxyadenosine​​	S-Adenosyl-L-Methionine-Dependent Halogenases	Halogenase
+FlA1	Bacterium	Streptomyces	terrestrial	fluoride, ​​S-adenosyl methionine​	5'-fluoro-deoxyadenosine​​	S-Adenosyl-L-Methionine-Dependent Halogenases	Halogenase
+FlA2	Bacterium	Nocardia	hospital	fluoride, ​​S-adenosyl methionine​	5'-fluoro-deoxyadenosine​​	S-Adenosyl-L-Methionine-Dependent Halogenases	Halogenase
+FlA3	Bacterium	Actinoplanes	terrestrial	fluoride, ​​S-adenosyl methionine​	5'-fluoro-deoxyadenosine​​	S-Adenosyl-L-Methionine-Dependent Halogenases	Halogenase
+FlA4	Bacterium	Streptomyces	marine	fluoride, ​​S-adenosyl methionine​	fluoroacetat	S-Adenosyl-L-Methionine-Dependent Halogenases	Halogenase
+GedL	Fungus	Aspergillus	NA	sulochrin	dihydrogeodin	Flavin-Dependent Halogenases	Halogenase
+GsfI	Fungus	Penicillium	NA	decholorogriseofulvin	griseofulvin	Flavin-Dependent Halogenases	Halogenase
+HadA	bacterium	Ralstonia	NA	2-chloromaleylacetate	maleylacetate	Oxidative dehalogenase	Dehalogenase
+HadD	bacterium	Pseudomonas	NA	(S)-2-haloacid	(2R)-2-hydroxycarboxylate	Hydrolytic dehalogenase	Dehalogenase
+HadL	bacterium	Pseudomonas	NA	(S)-2-haloacid	(2R)-2-hydroxycarboxylate	Hydrolytic dehalogenase	Dehalogenase
+HalB	Bacterium	Actinoplanes	NA	pyrrolnitrin, pyoluteorin	pentachloropseudilin	Flavin-Dependent Halogenases	Halogenase
+haloalkanoic	bacterium	Agrobacterium	NA	haloacid	hydroxycarboxylate	Hydrolytic dehalogenase	Dehalogenase
+HanR	bacterium	Rhodobacteraceae	marine	haloalkane	alcohol	Hydrolytic dehalogenase	Dehalogenase
+HcbA1	bacterium	Nocardioides	terrestrial	hexachlorobenzene​​	pentachlorophenol	Oxidative dehalogenase	Dehalogenase
+HcbB3	bacterium	Nocardioides	terrestrial	pentachlorophenol	tetrachlorohydroquinone​​	Oxidative dehalogenase	Dehalogenase
+HdI-IVa	bacterium	Burkholderia	terrestrial	(R)-2-haloacid	(2S)-2-hydroxycarboxylate	Hydrolytic dehalogenase	Dehalogenase
+HheA	bacterium	Arthrobacter	NA	NA	NA	Halohydrin dehalogenases	Dehalogenase
+HheC	bacterium	Agrobacterium	terrestrial	1,3-dichloro-2-propanol	glycidol	Halohydrin dehalogenases	Dehalogenase
+HrmQ	Bacterium	Streptomyces	NA	pyrrole-2-carboxyl-S-ACP	hormaomycin	Flavin-Dependent Halogenases	Halogenase
+HctB	Cyanobacterium	Lyngbya	marine	hexanoyl	hectochlorin	Nonheme Iron-Dependent Halogenases	Halogenase
+HZ11-VBPO	Bacterium	Microbulbifer	marine	2-heptyl-1(H)-quinolin-4-one	3-bromo-2-heptyl-1(H)-quinolin-4-one	Vanadium-Dependent Haloperoxidases	Halogenase
+JanmE	Cyanobacterium	Lyngbya	marine	NA	Jamaicamide A	Nonheme Iron-Dependent Halogenases	Halogenase
+KthP	Bacterium	Kutzneria	terrestrial	(3S)-piperazyl-S-T	(3S, 5S)-5-Cl-piperazyl-S-T	Nonheme Iron-Dependent Halogenases	Halogenase
+KtzD	Bacterium	Kutzneria	terrestrial	L-Ile-S-KtzC	Cl-L-Ile-S-KtzC	Nonheme Iron-Dependent Halogenases	Halogenase
+KtzQ	Bacterium	Kutzneria	soil	L-tryptophan	7-chlorotryptophan	Flavin-Dependent Halogenases	Halogenase
+KtzR	Bacterium	Kutzneria	soil	7-chlorotryptophan	6,7-dichlorotryptophan	Flavin-Dependent Halogenases	Halogenase
+L-2-haloacid-I	bacterium	Pseudomonas	NA	haloacid	hydroxycarboxylate	Hydrolytic dehalogenase	Dehalogenase
+L-2-haloacid-II	bacterium	Pseudomonas	NA	haloacid	hydroxycarboxylate	Hydrolytic dehalogenase	Dehalogenase
+Ld1-VBPO	Brown Algae	Laminaria	marine	monochlorodimedon	monochlorobromodimedone	Vanadium-Dependent Haloperoxidases	Halogenase
+Ld1-VIPO	Brown Algae	Laminaria	marine	iodide	triiodide	Vanadium-Dependent Haloperoxidases	Halogenase
+Ld2-VBPO	Brown Algae	Laminaria	marine	monochlorodimedon	monochlorobromodimedone	Vanadium-Dependent Haloperoxidases	Halogenase
+Ld3-VIPO	Brown Algae	Laminaria	marine	iodide	triiodide	Vanadium-Dependent Haloperoxidases	Halogenase
+L-DEX	bacterium	Pseudomonas	terrestrial	L-2-haloalkanoic acids	D-2-hydroxyalkanoic acid	Hydrolytic dehalogenase	Dehalogenase
+LinA	bacterium	Sphingomonas	terrestrial	α, γ-hexachlorocyclohexane​	tetrachlorodinitrobenzene	Dehydrochlorinase	Dehalogenase
+LinA1	bacterium	Sphingomonas	terrestrial	α, γ, δ-hexachlorocyclohexane​	​​pentachlorocyclohexane	Dehydrochlorinase	Dehalogenase
+LinA2	bacterium	Sphingomonas	terrestrial	α, γ, δ-hexachlorocyclohexane​	​​pentachlorocyclohexane	Dehydrochlorinase	Dehalogenase
+LinB	bacterium	Sphingomonas	terrestrial	haloalkane	alcohol	Hydrolytic dehalogenase	Dehalogenase
+linD	bacterium	Sphingomonas	terrestrial	2,5-dichlorohydroquinone	hydroquinone	Glutathione S-transferase	Dehalogenase
+Ls1-VBPO	Brown Algae	Laminaria	marine	monochlorodimedon	monochlorobromodimedone	Vanadium-Dependent Haloperoxidases	Halogenase
+MalA	Fungus	Malbranchea	terrestrial	premalbrancheamide	malbrancheamide	Flavin-Dependent Halogenases	Halogenase
+MbrA	bacterium	Dehalococcoides	Bay	trichloromethane​​	trans-dichloroethylene​​	Reductive dehalogenase	Dehalogenase
+Mcl24-VCPO	Bacterium	Streptomyces	marine	1,3,6,8-tetrahydroxynaphthalene	merochlorins A-B	Vanadium-Dependent Haloperoxidases	Halogenase
+Mcl40-VCPO	Bacterium	Streptomyces	marine	merochlorins D	merochlorins C	Vanadium-Dependent Haloperoxidases	Halogenase
+MecE	bacterium	Ca Dichloromethanomonas	river	dichloromethane​​	chloromethyl corrinoid	Methyltransferase	Dehalogenase
+MecF	bacterium	Ca Dichloromethanomonas	river	chloromethyl corrinoid	methyl corrinoid	Methyltransferase	Dehalogenase
+Mpy16	Bacterium	Streptomyces	marine	pyrrolyl-S-ACPs	marinopyrrole A	Flavin-Dependent Halogenases	Halogenase
+NapH1-VCPO	Bacterium	Streptomyces	marine	polyketide 1,3,6,8-tetrahydroxynaphthalene	napyradiomycin A1	Vanadium-Dependent Haloperoxidases	Halogenase
+NapH4-VCPO	Bacterium	Streptomyces	marine	napyradiomycin A1	napyradiomycin B1	Vanadium-Dependent Haloperoxidases	Halogenase
+NpRdhA	bacterium	Nitratireductor	marine	ortho-dibromophenol​​	​​bromophenol​​	Reductive dehalogenase	Dehalogenase
+PbrA1	bacterium	Dehalococcoides	terrestrial	tetra- and penta-BDE congeners	diphenyl ether	Reductive dehalogenase	Dehalogenase
+PbrA2	bacterium	Dehalococcoides	terrestrial	tetra- and penta-BDE congeners	diphenyl ether	Reductive dehalogenase	Dehalogenase
+PbrA3	bacterium	Dehalococcoides	terrestrial	tetra- and penta-BDE congeners	diphenyl ether	Reductive dehalogenase	Dehalogenase
+PcbA1	bacterium	Dehalococcoides	terrestrial	polychlorinated biphenyls	chlorobenzenes	Reductive dehalogenase	Dehalogenase
+PcbA4	bacterium	Dehalococcoides	terrestrial	polychlorinated biphenyls	chlorobenzenes	Reductive dehalogenase	Dehalogenase
+PcbA5	bacterium	Dehalococcoides	terrestrial	polychlorinated biphenyls	chlorobenzenes	Reductive dehalogenase	Dehalogenase
+PceA	bacterium	Dehalococcoides	terrestrial	perchloroethylene	​​trichloroethylene	Reductive dehalogenase	Dehalogenase
+PcpA	bacterium	Sphingobium	terrestrial	pentachlorophenol	tetrachloro-p-benzoquinone	Oxidative dehalogenase	Dehalogenase
+PcpB	bacterium	Sphingobium	terrestrial	pentachlorophenol	tetrachloro-p-benzoquinone	Oxidative dehalogenase	Dehalogenase
+PcpC	bacterium	Sphingobium	terrestrial	tetrachlorocyclohexane​​	​​2,6-dichlorocyclohexane​​	Glutathione S-transferase	Dehalogenase
+PH0459	bacterium	Pyrococcus	marine	haloacid	NA	Hydrolytic dehalogenase	Dehalogenase
+PloK	Fungi	Lachnum	NA	6-hydroxymellein	3-chloro-6-hydroxymellein	Flavin-Dependent Halogenases	Halogenase
+PltA	Bacterium	Pseudomonas	soil	pyrrolyl-S-PltL	4,5-dichloropyrrolyl-S-PltL	Flavin-Dependent Halogenases	Halogenase
+PltM	Bacterium	Pseudomonas	soil	phloroglucinol	1,3,5-trihydroxy-2-bromobenzene	Flavin-Dependent Halogenases	Halogenase
+PrdA	bacterium	Desulfitobacterium	terrestrial	perchloroethylene	​​trichloroethylene	Reductive dehalogenase	Dehalogenase
+PrnA	Bacterium	Pseudomonas	NA	L-tryptophan	7-chlorotryptophan	Flavin-Dependent Halogenases	Halogenase
+ptaM	Fungus	Pestalotiopsis	terrestrial	isosulochrin	chloroisosulochrin	Flavin-Dependent Halogenases	Halogenase
+PteA	bacterium	Dehalococcoides	terrestrial	perchloroethylene	​​trichloroethylene	Reductive dehalogenase	Dehalogenase
+PyrH	Bacterium	Streptomyces	NA	L-tryptophan	5-chlorotryptophan	Flavin-Dependent Halogenases	Halogenase
+RadH	Fungus	Chaetomium	soil	monocillin II	4-chloro-monocillin II	Flavin-Dependent Halogenases	Halogenase
+Rb-VCPO	Bacterium	Rhodopirellula	marine	NA	NA	Vanadium-Dependent Haloperoxidases	Halogenase
+Rdc2	Fungus	Pochonia	NA	6-hydroxyisoquinoline	5-chloro-6-hydroxyisoquinoline	Flavin-Dependent Halogenases	Halogenase
+AA1.Rdh	bacterium	Desulfoluna	marine	2,6-dibromophenol	2-bromophenol	Reductive dehalogenase	Dehalogenase
+RebH	Bacterium	Saccharothrix	soil	L-tryptophan	7-chlorotryptophan	Flavin-Dependent Halogenases	Halogenase
+RHA1-ro00230	bacterium	Rhodococcus	NA	(S)-2-haloacid	(R)-2-hydroxyacid	Hydrolytic dehalogenase	Dehalogenase
+SalL	Bacterium	Salinispora	marine	chloride, ​​S-adenosyl methionine​	5'-chloro-deoxyadenosine​	S-Adenosyl-L-Methionine-Dependent Halogenases	Halogenase
+SpmH	Bacterium	Streptomyces	deep-sea	L-tryptophan	5-chlorotryptophan	Flavin-Dependent Halogenases	Halogenase
+StaI	Bacterium	Streptomyces	NA	heptapeptide	glycopeptide A47,934	Flavin-Dependent Halogenases	Halogenase
+SyrB2	Bacterium	Pseudomonas	terrestrial	L-Thr-S-SyrB1	4-Cl-L-Thr-S-SyrB1	Nonheme Iron-Dependent Halogenases	Halogenase
+SttH	Bacterium	Streptomyces	NA	L-tryptophan	6-chlorotryptophan	Flavin-Dependent Halogenases	Halogenase
+Syn-VBPO	Cyanobacterium	Synechococcus	marine	monochlorodimedon	monochlorobromodimedone	Vanadium-Dependent Haloperoxidases	Halogenase
+Sys-VBPO	Cyanobacterium	Synechococcus	marine	monochlorodimedon	monochlorobromodimedone	Vanadium-Dependent Haloperoxidases	Halogenase
+Tar14	Bacterium	Saccharomonospora	marine	L-tryptophan	6-chlorotryptophan	Flavin-Dependent Halogenases	Halogenase
+TceA	bacterium	Dehalococcoides	terrestrial	​​trichloroethylene	​​vinyl chloride	Reductive dehalogenase	Dehalogenase
+TdrA	bacterium	Dehalogenimonas	terrestrial	trans-dichloroethylene​​	​​vinyl chloride	Reductive dehalogenase	Dehalogenase
+TftD	bacterium	Burkholderia	NA	2,4,5-trichlorophenol	2,5-dichloro-benzoquinone	Oxidative dehalogenase	Dehalogenase
+Thal	Bacterium	Streptomyces	NA	L-tryptophan	6-chlorotryptophan	Flavin-Dependent Halogenases	Halogenase
+Thr3	Bacterium	Streptomyces	NA	threonine	4-chlorothreonine	Nonheme Iron-Dependent Halogenases	Halogenase
+TmrA	bacterium	Dehalobacter	groundwater	trichloromethane	dichloromethane	Reductive dehalogenase	Dehalogenase
+TrzN	bacterium	Arthrobacter	terrestrial	atrazine	hydroxyatrazine	Hydrolytic dehalogenase	Dehalogenase
+VcrA	bacterium	Dehalococcoides	terrestrial	​​vinyl chloride	ethylene	Reductive dehalogenase	Dehalogenase
+VemK	Bacterium	Streptomyces	mountain	venemycin	2-chloro venemycin	Flavin-Dependent Halogenases	Halogenase
+VhaA	Bacterium	Amycolatopsis	soil	hexapeptide	vancomycin	Flavin-Dependent Halogenases	Halogenase
+V-HPO	Bacterium	Zobellia	marine	NA	NA	Vanadium-Dependent Haloperoxidases	Halogenase
+VirX1	Virus	Cyanophage	marine	6-azaindole	4-iodo-6-azaindole	Flavin-Dependent Halogenases	Halogenase
+WelO5	Cyanobacterium	Hapalosiphon	terrestrial	12-epi-fischerindole U	12-epi-fischerindole G	Nonheme Iron-Dependent Halogenases	Halogenase
+Zg1-VIPO	Bacterium	Zobellia	marine	thymol blue	diiodothymolsulfonphthalein	Vanadium-Dependent Haloperoxidases	Halogenase
+Zg2-VIPO	Bacterium	Zobellia	marine	thymol blue	diiodothymolsulfonphthalein	Vanadium-Dependent Haloperoxidases	Halogenase
+Bmp8	Bacterium	Marinomonas	marine	2,3,4,5-tetrabromopyrrole	2,3,4-tribromopyrrole	Glutathione S-transferase	Dehalogenase
+CprA3	Bacterium	Desulfitobacterium	terrestrial	pentachlorophenol	3-chlorophenol	Reductive dehalogenase	Dehalogenase
+CprA5	Bacterium	Desulfitobacterium	terrestrial	3,5-dichlorophenol	3-chlorophenol	Reductive dehalogenase	Dehalogenase
+DBB.Rdh	Bacterium	Desulfoluna	marine	1,4-dibromobenzene	monobromobenzene	Reductive dehalogenase	Dehalogenase
+Am1-VBPO	Cyanobacterium	Acaryochloris	marine	1,3-dimethoxybenzene	1-bromo-2,4-dimethoxybenzene	Vanadium-Dependent Haloperoxidases	Halogenase
